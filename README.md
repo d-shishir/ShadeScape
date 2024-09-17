@@ -12,3 +12,6 @@ To run the app, use the following command:
 ```bash
 npx expo start
 ```
+
+## Inspiration
+Building ShadeScape with insights from this [YouTube video](https://www.youtube.com/watch?v=Feqq9e04svw&t=1755s).
